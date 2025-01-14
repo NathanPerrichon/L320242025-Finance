@@ -4,4 +4,4 @@ while n > 0:
     if n == 2:
         continue
     print(n)
-print('Loop ended.')kk
+print('Loop ended.')
